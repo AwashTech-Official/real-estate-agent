@@ -1,0 +1,6 @@
+{
+  "name": "Sheger Prime Multilingual AI Voice Agent",
+  "description": "Standalone conversational AI voice agent for Sheger Prime Real Estate in Addis Ababa, Ethiopia, supporting Amharic, Afaan Oromoo, Tigrinya, and English with real speech input and voice responses.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
